@@ -43,15 +43,6 @@ I'm a **systems thinker** and **ChemE PhD Candidate at MIT** specializing in **B
 - **Microfluidics**: Tumor cell segregation and viscoelastic fluid flow modeling
 - **Process Optimization**: ML for bioreactor control and industrial process enhancement
 
-## 📚 Publications & Research Contributions
-
-### 🔬 Peer-Reviewed Publications
-- **"A universal approximation for conductance blockade in thin nanopore membranes"**
-- **"Molecular Investigation of the Actuation of Electrowetted Nanodroplets"**
-- **"Rapid Simulation of Electro-Chemo-Mechanical Deformation of Li-ion Batteries Based On Porous Electrode Theory"**
-- **"Molecular Investigation of Contact Line Movement in Electrowetted Nanodroplets"**
-- **"Computational Insights into Electrolyte-Dependent Li-Ion Charge-Transfer Kinetics at the LixCoO2 Interface"**
-
 ### 📖 Educational Content
 - 🧮 **[Math for Fun Blog](https://oscuro-phoenix.github.io/math-for-fun/)** - Making mathematics accessible and engaging
 - 📝 **Engineering PhD Application Guide** - Comprehensive guide for aspiring PhD candidates
@@ -80,9 +71,7 @@ I'm a **systems thinker** and **ChemE PhD Candidate at MIT** specializing in **B
 - Mentoring aspiring researchers and PhD candidates
 - Contributing to open-source computational physics tools
 
-## 📊 GitHub Stats
-
-![Shakul's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscuro-phoenix&show_icons=true&theme=radical)
+## 📊 GitHub 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscuro-phoenix&layout=compact&theme=radical)
 
@@ -98,8 +87,8 @@ I'm a **systems thinker** and **ChemE PhD Candidate at MIT** specializing in **B
 
 ## 🤝 Let's Connect!
 
-- 📧 **Email**: shakulpathak.iitkgp@gmail.com
-- 🏛️ **Institution**: MIT ChemE, Ashdown House, Cambridge, MA 02139
+- 📧 **Email**: shakulp@mit.edu
+- 🏛️ **Institution**: MIT
 - 💼 **LinkedIn**: [linkedin.com/in/shakul-pathak](https://www.linkedin.com/in/shakul-pathak/)
 - 📝 **Blog**: [oscuro-phoenix.github.io/math-for-fun](https://oscuro-phoenix.github.io/math-for-fun/)
 - 📄 **Medium**: [@shakulpathak.iitkgp](https://medium.com/@shakulpathak.iitkgp)
