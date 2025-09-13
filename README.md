@@ -16,18 +16,25 @@ I'm a **systems thinker** and **ChemE PhD Candidate at MIT** specializing in **B
 
 ## 🛠️ Research & Technical Expertise
 
-```python
-expertise = {
-    "Core Research": ["Battery Physics", "Electrochemical Systems", "Computational Physics"],
-    "Mathematical Modeling": ["PDE Solvers", "Porous Electrode Theory", "Monte Carlo Methods"],
-    "Programming": ["Python", "C++11", "TensorFlow 2", "Cython", "Numba"],
-    "Machine Learning": ["Physics-Informed Neural Networks", "Deep Galerkin Method", "MCMC"],
-    "Computational Tools": ["OpenMPI", "Kinetic Monte Carlo", "Lagrangian Gradient Descent"],
-    "Laboratory": ["Spin Coating", "Optical Microscopy", "Microfluidics", "Nanofabrication"],
-    "Software Development": ["Web Development", "PHP Backend", "Database Management"],
-    "Languages": ["English (Professional)", "Hindi (Native)", "Bengali (Native)", "Oriya (Limited)"]
-}
-```
+### 🔬 **Core Research Areas**
+- **Battery Physics** | **Electrochemical Systems** | **Computational Physics**
+
+### 🧮 **Mathematical Modeling**
+- **PDE Solvers** | **Porous Electrode Theory** | **Monte Carlo Methods**
+
+### 💻 **Programming & Development**
+- **Languages**: Python, C++11, JavaScript, PHP
+- **ML/AI Frameworks**: TensorFlow 2, PyTorch, Scikit-learn
+- **Performance**: Cython, Numba, OpenMPI
+- **Web Development**: PHP Backend, Database Management
+
+### 🤖 **Machine Learning & AI**
+- **Physics-Informed Neural Networks** | **Deep Galerkin Method** | **MCMC**
+- **Computer Vision** | **Optimization Algorithms** | **Statistical Analysis**
+
+### ⚙️ **Computational & Laboratory Tools**
+- **High-Performance Computing**: OpenMPI, Kinetic Monte Carlo, Lagrangian Gradient Descent
+- **Laboratory**: Spin Coating, Optical Microscopy, Microfluidics, Nanofabrication
 
 ### 🔬 Specialized Research Areas
 - **Energy Storage**: Lithium-ion battery modeling and electrochemical characterization
@@ -75,9 +82,9 @@ expertise = {
 
 ## 📊 GitHub Stats
 
-![Shakul's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakulp&show_icons=true&theme=radical)
+![Shakul's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscuro-phoenix&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakulp&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscuro-phoenix&layout=compact&theme=radical)
 
 ## 🌟 Featured Repositories
 
@@ -115,28 +122,12 @@ I believe in:
 
 ## 📈 Research Trajectory & Future Vision
 
-```python
-current_pursuits = [
-    "Next-generation battery modeling and electrochemical system optimization",
-    "Integration of AI/ML with physics-based models for energy applications", 
-    "Business development: Finance, entrepreneurship, and venture capital",
-    "Scaling research impact through technology transfer and commercialization",
-    "Mathematical education and knowledge dissemination"
-]
-
-career_vision = {
-    "short_term": "Complete PhD with breakthrough contributions to battery physics",
-    "medium_term": "Bridge academia-industry gap through consulting and entrepreneurship", 
-    "long_term": "Create scalable impact in sustainable energy and technology sectors"
-}
-```
-
-### 🌐 Global Research Experience
-- 🇺🇸 **MIT** - Battery Physics & Electrochemical Systems
-- 🇺🇸 **UC Berkeley** - Physics-Informed Neural Networks  
-- 🇩🇪 **Max Planck Institute** - Kinetic Monte Carlo Simulations
-- 🇨🇦 **Simon Fraser University** - Stochastic Thermodynamics
-- 🇸🇪 **KTH Royal Institute** - Microfluidics & Tumor Cell Segregation
+### 🎯 **Current Pursuits**
+- 🔋 **Next-generation battery modeling** and electrochemical system optimization
+- 🤖 **Integration of AI/ML** with physics-based models for energy applications
+- 💼 **Business development**: Finance, entrepreneurship, and venture capital
+- 📈 **Scaling research impact** through technology transfer and commercialization
+- 📚 **Mathematical education** and knowledge dissemination
 
 ## 🎓 Education & Certifications
 
@@ -149,6 +140,6 @@ career_vision = {
 
 *"Struggle is not just about overcoming obstacles; it's about becoming who you're meant to be in the process."*
 
-⭐️ From [Shakul Pathak](https://github.com/shakulp)
+⭐️ From [Shakul Pathak](https://github.com/oscuro-phoenix)
 
 
