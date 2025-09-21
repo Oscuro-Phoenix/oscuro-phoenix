@@ -1,4 +1,4 @@
-**ChemE PhD @ MIT** specializing in computational modeling of electrochemical systems. 
+**ChemE PhD @ MIT** specializing in computational modeling.  
 
 ---	
 
