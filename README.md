@@ -1,6 +1,6 @@
 **Contact & Links:**  
   * email: shakulp@mit.edu
-  * resume: [PDF Resume](https://drive.google.com/file/d/13bupMmTaDIvAPtdmPKgC9OjsrbttAIeI/view?usp=drive_link) 
+  * resume: [Resume](https://drive.google.com/file/d/13bupMmTaDIvAPtdmPKgC9OjsrbttAIeI/view?usp=drive_link) 
 
 I build mathematical models for lithium batteries at **[Bazant Group, MIT](https://bazantgroup.mit.edu/shakul-pathak/)**. I have over 4 years of experience in computational modeling, contributing to several [publications](https://scholar.google.com/citations?user=6gel9QYAAAAJ&hl=en) and a pending patent in battery technology. I'm passionate about helping tough technologies scale faster through mathematical modeling.
 
