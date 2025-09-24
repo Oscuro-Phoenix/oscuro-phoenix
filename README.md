@@ -2,7 +2,7 @@
 
 # Shakul Pathak
 
-### 🔬 ChemE PhD Candidate @ MIT | Computational Modeling & Battery Technology
+### Computational Modeling & Battery Technology @ MIT
 
 [![Email](https://img.shields.io/badge/Email-shakulp@mit.edu-blue?style=flat-square&logo=gmail)](mailto:shakulp@mit.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shakul-pathak)
@@ -15,14 +15,6 @@
 </div>
 
 I build mathematical models for lithium batteries at **Bazant Group, MIT**. 
-
----
-**🔬 Expertise**: Computational Physics (FVM, ML), Electrochemistry, Mathematical Modeling, Industrial Applications  
-**🛠️ Skills**: Python, MATLAB, C++, Julia | COMSOL, Aspen, MPET, PETLION | ML, Statistical Analysis  
-**💼 Experience**: Research Scientist @ MIT | Consultant @ SLB | Consultant @ AstraZeneca  
-**🌍 Collaborations**: UC Berkeley (Physics-informed neural nets), Max Planck (Active droplet physics), Simon Fraser (Statistical mechanics), IIT Kharagpur (Molecular simulations)
-**🌟 Interests**: Next-gen batteries, separation processes, AI for science, entrepreneurship, mathematics  
----
 
 <div align="center">
 
