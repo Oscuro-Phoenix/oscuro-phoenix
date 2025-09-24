@@ -7,6 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-shakulp@mit.edu-blue?style=flat-square&logo=gmail)](mailto:shakulp@mit.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-@oscuro--phoenix-black?style=flat-square&logo=github)](https://github.com/oscuro-phoenix)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shakul-pathak)
+[![Blog](https://img.shields.io/badge/Blog-Math_for_Fun-purple?style=flat-square&logo=rss)](https://oscuro-phoenix.github.io/math-for-fun/)
 [![Location](https://img.shields.io/badge/Location-Cambridge,_MA-red?style=flat-square&logo=location-dot)](https://maps.google.com/?q=Cambridge,MA)
 
 ---
@@ -17,7 +18,7 @@
 
 **Bridging mathematics and technology to accelerate battery innovation**
 
-I specialize in building sophisticated mathematical models that help lithium batteries scale faster and more efficiently. With over **4+ years of experience** in computational modeling at the prestigious **Bazant Group, MIT**, I've contributed to **8+ publications** and a **pending patent** in battery technology.
+I specialize in building sophisticated mathematical models that help lithium batteries scale faster and more efficiently. With over **4+ years of experience** in computational modeling at **Bazant Group, MIT**, I've contributed to **8+ publications** and a **pending patent** in battery technology.
 
 ### 🎯 Mission
 *Helping batteries scale faster through mathematical modeling and computational physics*
@@ -26,10 +27,9 @@ I specialize in building sophisticated mathematical models that help lithium bat
 
 ## 🎓 Education
 
-- **PhD in Chemical Engineering** | Massachusetts Institute of Technology (MIT)
+- **PhD in Chemical Engineering (Minor: Entrepeneurial Finance)** | Massachusetts Institute of Technology (MIT)
 - **Master of Science in Chemical Engineering Practice (MSCEP)** | MIT ChemE (2024) - **GPA: 5.0/5.0**
-- **Minor in Entrepreneurial Finance** | MIT
-- **Bachelor's in Chemical Engineering** | IIT Kharagpur
+- **Bachelor's & Master's in Chemical Engineering** | IIT Kharagpur
 
 ---
 
@@ -65,10 +65,10 @@ I specialize in building sophisticated mathematical models that help lithium bat
 - Designed automated pneumatic systems for therapeutic injector testing
 
 ### **Research Collaborations**
-- **UC Berkeley**: Computational modeling with Prof. Karthik Shekhar
-- **Max Planck Institute**: Dynamics and self-organization research with Dr. David Zwicker
-- **Simon Fraser University**: Applied mathematics with Prof. David Sivak
-- **IIT Kharagpur**: Advanced modeling techniques with Prof. Sunando DasGupta
+- **UC Berkeley**: Physics informed neural nets with Prof. Karthik Shekhar
+- **Max Planck Institute for Dynamics and self-organization**:  Active droplet physics with Dr. David Zwicker
+- **Simon Fraser University**: Statistical mechanics models with Prof. David Sivak
+- **IIT Kharagpur**: Molecular simulations of nanoscale transport phenomena with Prof. Sunando DasGupta
 
 ---
 
@@ -77,7 +77,7 @@ I specialize in building sophisticated mathematical models that help lithium bat
 | Category | Technologies |
 |----------|-------------|
 | **Programming** | Python, MATLAB, C++, Julia |
-| **Modeling** | COMSOL, ANSYS, OpenFOAM |
+| **Modeling** | COMSOL, Aspen, MPET, PETLION|
 | **Data Science** | Machine Learning, Statistical Analysis |
 | **Physics** | Electrochemistry, Fluid Dynamics, Thermodynamics |
 | **Tools** | Git, LaTeX, Jupyter Notebooks |
@@ -99,6 +99,7 @@ I'm passionate about **next-generation battery technologies**, **separation proc
 [![Email](https://img.shields.io/badge/Email-shakulp@mit.edu-blue?style=for-the-badge&logo=gmail)](mailto:shakulp@mit.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-@oscuro--phoenix-black?style=for-the-badge&logo=github)](https://github.com/oscuro-phoenix)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shakul-pathak)
+[![Blog](https://img.shields.io/badge/Blog-Math_for_Fun-purple?style=for-the-badge&logo=rss)](https://oscuro-phoenix.github.io/math-for-fun/)
 
 </div>
 
@@ -108,7 +109,9 @@ I'm passionate about **next-generation battery technologies**, **separation proc
 
 <div align="center">
   
-*"Mathematics is the language in which God has written the universe."* - Galileo Galilei
+*"Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious."*
+
+– Stephen Hawking
 
 </div>
 
