@@ -9,12 +9,6 @@ I build mathematical models for lithium batteries at **Bazant Group, MIT**. I ha
 
 I specialize in computational physics and electrochemistry, developing models for battery performance estimation, design optimization, and safety assessment. My work spans finite volume methods, machine learning, and numerical analysis for complex electrochemical systems.
 
-## Technical Skills
-
-| **Expertise** | **Languages & Tools** | **Specialized Software** |
-|---------------|----------------------|-------------------------|
-| Computational Modeling | Python, MATLAB, C++, Julia | MPET, PETLION,COMSOL, Aspen |
-
 ## Projects
 
 - **[Math for Fun](https://oscuro-phoenix.github.io/math-for-fun/)** - A register of interesting math 
@@ -22,10 +16,15 @@ I specialize in computational physics and electrochemistry, developing models fo
 - **[KnotGen](https://github.com/Oscuro-Phoenix/knotgen)** - Job matching platform built with Next.js, TypeScript, and React
 - **[Shell AI Hack 2024](https://github.com/Oscuro-Phoenix/shellaihack2024)** - Energy sector AI automation (Hackathon submission)
 
-## Contact
+## Technical Skills
+
+| **Expertise** | **Languages & Tools** | **Specialized Software** |
+|---------------|----------------------|-------------------------|
+| Computational Modeling | Python, MATLAB, C++, Julia | MPET, PETLION,COMSOL, Aspen |
+
+## Email/LinkedIn/Scholar
 
 [![Email](https://img.shields.io/badge/Email-shakulp@mit.edu-blue?style=flat-square&logo=gmail)](mailto:shakulp@mit.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-@oscuro--phoenix-black?style=flat-square&logo=github)](https://github.com/oscuro-phoenix)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shakul-pathak)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-green?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?hl=en&user=6gel9QYAAAAJ&view_op=list_works&sortby=pubdate)
 
