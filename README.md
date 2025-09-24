@@ -6,11 +6,13 @@
 
 I build mathematical models for lithium batteries at **Bazant Group, MIT**. 
 
-## 🚀 ML/AI Projects Built During Hackathons
+## 🚀 ML/AI Projects 
 
 **[🧪 XAScribe](https://github.com/Oscuro-Phoenix/xascribe)** - AI-powered XAS research assistant | Streamlit, Gemini 2.5 Flash, FAISS | [Live Demo](https://xascribe-mqr9ykb3xgrabj4msihmvx.streamlit.app/)  
 **[🔗 KnotGen](https://github.com/Oscuro-Phoenix/knotgen)** - Job matching platform | Next.js, TypeScript, React  
 **[🤖 Shell AI Hack 2024](https://github.com/Oscuro-Phoenix/shellaihack2024)** - Energy sector AI automation | Hackathon submission
+
+## 📬 Let's Connect!
 
 <div align="center">
 
