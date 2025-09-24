@@ -1,5 +1,7 @@
 # Shakul Pathak
 
+**ChemE PhD @ MIT** specializing in computational modeling.
+
 ## Mathematical Modeling @ MIT
 
 Cambridge, MA, US
