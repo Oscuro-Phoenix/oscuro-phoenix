@@ -2,19 +2,14 @@
 
 **ChemE PhD @ MIT** specializing in computational modeling.
 
-## Mathematical Modeling @ MIT
-
 Cambridge, MA, US
 
 ⭐️ *Helping batteries scale faster through mathematical modeling*
 
 **shakulp@mit.edu** | [GitHub](https://github.com/oscuro-phoenix) | [LinkedIn](https://linkedin.com/in/shakul-pathak)
 
----
 
-## Hi there 👋
-
-**I'm Shakul — MIT Researcher** | **Mathematical Modeling** | **Battery Technology Enthusiast**
+**MIT Researcher** | **Mathematical Modeling** | **Battery Technology Enthusiast**
 
 I build mathematical models that help lithium batteries scale quicker. I have over four years of experience shaping numerical/analytical physics (electrochemistry, mechanics) models (FVM, ML) for performance estimation, guided design, safety and health assessment of lithium batteries at the Bazant Group, MIT (co-authored 8+ publications and a pending patent).
 
