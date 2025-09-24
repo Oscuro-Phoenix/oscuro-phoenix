@@ -4,7 +4,7 @@
 
 I build mathematical models for lithium batteries at **[Bazant Group, MIT](https://bazantgroup.mit.edu/shakul-pathak/)**. I have over 4 years of experience in computational modeling, contributing to several [publications](https://scholar.google.com/citations?user=6gel9QYAAAAJ&hl=en) and a pending patent in battery technology. I'm passionate about helping tough technologies scale faster through mathematical modeling.
 
-I specialize in computational modeling of electrochemical systems, developing models for battery performance estimation, design optimization, and safety assessment. My work spans finite volume methods, machine learning, and numerical analysis for complex electrochemical systems.
+I specialize in computational modeling of electrochemical systems, developing models for battery performance estimation, design optimization, and safety assessment. My work spans finite volume methods, machine learning, and numerical modeling for complex electrochemical systems.
 
 **Projects & Links**
 * [Math for Fun](https://oscuro-phoenix.github.io/math-for-fun/) - A register of interesting math 
