@@ -2,7 +2,7 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 
 I specialize in computational modeling of electrochemical systems, developing physics models for battery performance estimation, design, and safety assessment. My work spans finite volume methods, numerical modeling and machine learning for complex systems.
 
-**Learn more:**  
+**Learn more**  
   * about: [Resume](https://drive.google.com/file/d/13bupMmTaDIvAPtdmPKgC9OjsrbttAIeI/view?usp=drive_link) 
   * blog: [Math-for-fun](https://oscuro-phoenix.github.io/math-for-fun/) 
 
