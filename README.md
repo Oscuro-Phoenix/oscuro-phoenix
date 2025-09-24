@@ -12,8 +12,6 @@ I specialize in computational physics and electrochemistry, developing models fo
 | **Expertise** | **Languages & Tools** | **Specialized Software** |
 |---------------|----------------------|-------------------------|
 | Computational Physics, Electrochemistry | Python, MATLAB, C++, Julia | COMSOL, Aspen, MPET, PETLION |
-| Machine Learning, Statistical Analysis | Git, LaTeX, Jupyter, R | TensorFlow, PyTorch, SHAP |
-| Mathematical Modeling | Bash, Shell | Pymatgen, Scikit-learn |
 
 ## Projects
 
