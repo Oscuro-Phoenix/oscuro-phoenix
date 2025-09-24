@@ -10,7 +10,7 @@ I specialize in computational modeling of electrochemical systems, developing mo
 * [Math for Fun](https://oscuro-phoenix.github.io/math-for-fun/) - A register of interesting math 
 * [XAScribe](https://github.com/Oscuro-Phoenix/xascribe) - AI-powered XAS research assistant with Streamlit, Gemini 2.5 Flash, and FAISS | [Live Demo](https://xascribe-mqr9ykb3xgrabj4msihmvx.streamlit.app/)
 * [KnotGen](https://github.com/Oscuro-Phoenix/knotgen) - Job matching platform built with Next.js, TypeScript, and React
-* [Shell AI Hack 2024](https://github.com/Oscuro-Phoenix/shellaihack2024) - Energy sector AI automation (Hackathon submission)
+* [Shell AI Hack 2024](https://github.com/Oscuro-Phoenix/shellaihack2024) - Minimizing vehicle fleet carbon emissions (Hackathon submission)
 
 **LinkedIn and Scholar**
 * [LinkedIn](https://linkedin.com/in/shakul-pathak) 
