@@ -3,9 +3,11 @@
 - **Learn more about me**:
   * resume: [PDF Resume](https://drive.google.com/file/d/13bupMmTaDIvAPtdmPKgC9OjsrbttAIeI/view?usp=drive_link) 
 
+## Present Focus
+
 I build mathematical models for lithium batteries at **Bazant Group, MIT**. I have over 4 years of experience in computational modeling, contributing to 8+ publications and a pending patent in battery technology. I'm passionate about helping tough technologies scale faster through mathematical modeling.
 
-## Research Focus
+## Research
 
 I specialize in computational physics and electrochemistry, developing models for battery performance estimation, design optimization, and safety assessment. My work spans finite volume methods, machine learning, and numerical analysis for complex electrochemical systems.
 
