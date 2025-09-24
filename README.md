@@ -12,11 +12,10 @@ I specialize in computational modeling of electrochemical systems, developing mo
 * [KnotGen](https://github.com/Oscuro-Phoenix/knotgen) - Job matching platform built with Next.js, TypeScript, and React
 * [Shell AI Hack 2024](https://github.com/Oscuro-Phoenix/shellaihack2024) - Energy sector AI automation (Hackathon submission)
 
-## Email/LinkedIn/Scholar
-
-[![Email](https://img.shields.io/badge/Email-shakulp@mit.edu-blue?style=flat-square&logo=gmail)](mailto:shakulp@mit.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shakul-pathak)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-green?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?hl=en&user=6gel9QYAAAAJ&view_op=list_works&sortby=pubdate)
+**Email/LinkedIn/Scholar**
+* [Email](mailto:shakulp@mit.edu) - shakulp@mit.edu
+* [LinkedIn](https://linkedin.com/in/shakul-pathak) - Professional profile
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=6gel9QYAAAAJ&view_op=list_works&sortby=pubdate) - Publications and citations
 
 *"Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious."* – Stephen Hawking
 
