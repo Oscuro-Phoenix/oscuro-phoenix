@@ -1,3 +1,4 @@
+** Quick Info
   * email: shakulp@mit.edu
   * resume: [PDF Resume](https://drive.google.com/file/d/13bupMmTaDIvAPtdmPKgC9OjsrbttAIeI/view?usp=drive_link) 
 
