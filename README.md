@@ -6,12 +6,11 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 
 I specialize in computational modeling of electrochemical systems, developing models for battery performance estimation, design optimization, and safety assessment. My work spans finite volume methods, machine learning, and numerical analysis for complex electrochemical systems.
 
-## Projects
-
-- **[Math for Fun](https://oscuro-phoenix.github.io/math-for-fun/)** - A register of interesting math 
-- **[XAScribe](https://github.com/Oscuro-Phoenix/xascribe)** - AI-powered XAS research assistant with Streamlit, Gemini 2.5 Flash, and FAISS | [Live Demo](https://xascribe-mqr9ykb3xgrabj4msihmvx.streamlit.app/)
-- **[KnotGen](https://github.com/Oscuro-Phoenix/knotgen)** - Job matching platform built with Next.js, TypeScript, and React
-- **[Shell AI Hack 2024](https://github.com/Oscuro-Phoenix/shellaihack2024)** - Energy sector AI automation (Hackathon submission)
+**Projects & Links**
+* [Math for Fun](https://oscuro-phoenix.github.io/math-for-fun/) - A register of interesting math 
+* [XAScribe](https://github.com/Oscuro-Phoenix/xascribe) - AI-powered XAS research assistant with Streamlit, Gemini 2.5 Flash, and FAISS | [Live Demo](https://xascribe-mqr9ykb3xgrabj4msihmvx.streamlit.app/)
+* [KnotGen](https://github.com/Oscuro-Phoenix/knotgen) - Job matching platform built with Next.js, TypeScript, and React
+* [Shell AI Hack 2024](https://github.com/Oscuro-Phoenix/shellaihack2024) - Energy sector AI automation (Hackathon submission)
 
 ## Email/LinkedIn/Scholar
 
