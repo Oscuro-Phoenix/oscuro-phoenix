@@ -1,8 +1,6 @@
 <div align="center">
 
-# Shakul Pathak
-
-### Computational Modeling & Battery Technology @ MIT
+### Computational Modeling & Batteries @ MIT
 
 </div>
 
