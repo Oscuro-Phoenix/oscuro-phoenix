@@ -14,10 +14,9 @@
 
 </div>
 
-**🎯 Mission**: *Helping tough tech scale faster through mathematical modeling*
-
 I build mathematical models for lithium batteries at **Bazant Group, MIT**. 
 
+---
 **🔬 Expertise**: Computational Physics (FVM, ML), Electrochemistry, Mathematical Modeling, Industrial Applications  
 **🛠️ Skills**: Python, MATLAB, C++, Julia | COMSOL, Aspen, MPET, PETLION | ML, Statistical Analysis  
 **💼 Experience**: Research Scientist @ MIT | Consultant @ SLB | Consultant @ AstraZeneca  
