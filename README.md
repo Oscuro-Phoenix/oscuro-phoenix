@@ -15,7 +15,7 @@ I specialize in computational modeling of electrochemical systems, developing ph
 * professional: [LinkedIn](https://linkedin.com/in/shakul-pathak) 
 * research: [Google Scholar](https://scholar.google.com/citations?hl=en&user=6gel9QYAAAAJ&view_op=list_works&sortby=pubdate)
 * in-the-media: 
-      * [MIT Team Advances Lithium-Ion Battery Health Prediction with Elastoplasticity Model](https://quantumzeitgeist.com/mit-team-advances-lithium-ion-battery-health-prediction-with-elastoplasticity-model/)
+  * [MIT Team Advances Lithium-Ion Battery Health Prediction with Elastoplasticity Model](https://quantumzeitgeist.com/mit-team-advances-lithium-ion-battery-health-prediction-with-elastoplasticity-model/)
  
 *"Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious."* – Stephen Hawking
 
