@@ -1,6 +1,4 @@
-- **How to reach me**:  
   * email: shakulp@mit.edu
-- **Learn more about me**:
   * resume: [PDF Resume](https://drive.google.com/file/d/13bupMmTaDIvAPtdmPKgC9OjsrbttAIeI/view?usp=drive_link) 
 
 ## Present Focus
