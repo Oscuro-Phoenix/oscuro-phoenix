@@ -11,7 +11,7 @@ I specialize in computational physics and electrochemistry, developing models fo
 
 | **Expertise** | **Languages & Tools** | **Specialized Software** |
 |---------------|----------------------|-------------------------|
-| Computational Physics, Electrochemistry | Python, MATLAB, C++, Julia | COMSOL, Aspen, MPET, PETLION |
+| Computational Modeling | Python, MATLAB, C++, Julia | COMSOL, Aspen, MPET, PETLION |
 
 ## Projects
 
