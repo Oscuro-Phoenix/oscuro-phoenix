@@ -5,7 +5,6 @@
 ### 🔬 ChemE PhD Candidate @ MIT | Computational Modeling & Battery Technology
 
 [![Email](https://img.shields.io/badge/Email-shakulp@mit.edu-blue?style=flat-square&logo=gmail)](mailto:shakulp@mit.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-@oscuro--phoenix-black?style=flat-square&logo=github)](https://github.com/oscuro-phoenix)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shakul-pathak)
 [![Blog](https://img.shields.io/badge/Blog-Math_for_Fun-purple?style=flat-square&logo=rss)](https://oscuro-phoenix.github.io/math-for-fun/)
 [![Location](https://img.shields.io/badge/Location-Cambridge,_MA-red?style=flat-square&logo=location-dot)](https://maps.google.com/?q=Cambridge,MA)
@@ -81,6 +80,32 @@ I specialize in building sophisticated mathematical models that help lithium bat
 | **Data Science** | Machine Learning, Statistical Analysis |
 | **Physics** | Electrochemistry, Fluid Dynamics, Thermodynamics |
 | **Tools** | Git, LaTeX, Jupyter Notebooks |
+
+---
+
+## 🚀 ML/AI Projects Built During Hackathons
+
+### [🧪 XAScribe](https://github.com/Oscuro-Phoenix/xascribe)
+**AI-powered research assistant for X-ray Absorption Spectroscopy (XAS) analysis**
+
+- **Tech Stack**: Streamlit, Google Gemini 2.5 Flash, FAISS, BGE embeddings
+- **Features**: XAS data analysis, literature processing, AI manuscript generation with RAG
+- **Impact**: Advanced AI research platform for materials science with smart caching
+- **Live Demo**: [xascribe-mqr9ykb3xgrabj4msihmvx.streamlit.app](https://xascribe-mqr9ykb3xgrabj4msihmvx.streamlit.app/)
+
+### [🔗 KnotGen](https://github.com/Oscuro-Phoenix/knotgen)
+**Helping seekers get desirable jobs & businesses get skilled hires in minutes, not weeks**
+
+- **Tech Stack**: Next.js, TypeScript, React
+- **Mission**: Streamlining the hiring process through intelligent matching
+- **Status**: Active development with modern web technologies
+
+### [🤖 Shell AI Hack 2024](https://github.com/Oscuro-Phoenix/shellaihack2024)
+**Innovation in AI and automation solutions**
+
+- **Focus**: AI-driven automation and intelligent systems
+- **Participation**: Shell AI Hackathon 2024 submission
+- **Domain**: Energy sector AI applications
 
 ---
 
