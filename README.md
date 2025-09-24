@@ -1,6 +1,5 @@
 - **How to reach me**:  
-  * email: shakulp@mit.edu  
-  * website: [Math for Fun](https://oscuro-phoenix.github.io/math-for-fun/)
+  * email: shakulp@mit.edu
 
 I build mathematical models for lithium batteries at **Bazant Group, MIT**. I have over 4 years of experience in computational modeling, contributing to 8+ publications and a pending patent in battery technology. I'm passionate about helping tough technologies scale faster through mathematical modeling.
 
@@ -18,10 +17,10 @@ I specialize in computational physics and electrochemistry, developing models fo
 
 ## Projects
 
+- **[Math for Fun](https://oscuro-phoenix.github.io/math-for-fun/)** - Mathematical problem collection and solutions
 - **[XAScribe](https://github.com/Oscuro-Phoenix/xascribe)** - AI-powered XAS research assistant with Streamlit, Gemini 2.5 Flash, and FAISS | [Live Demo](https://xascribe-mqr9ykb3xgrabj4msihmvx.streamlit.app/)
 - **[KnotGen](https://github.com/Oscuro-Phoenix/knotgen)** - Job matching platform built with Next.js, TypeScript, and React
 - **[Shell AI Hack 2024](https://github.com/Oscuro-Phoenix/shellaihack2024)** - Energy sector AI automation (Hackathon submission)
-- **[Math for Fun](https://oscuro-phoenix.github.io/math-for-fun/)** - Mathematical problem collection and solutions
 
 ## Contact
 
