@@ -3,7 +3,7 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 **Projects from Hackathons**
 * [XAScribe](https://github.com/Oscuro-Phoenix/xascribe) - AI-powered XAS research assistant with Streamlit, Gemini 2.5 Flash, and FAISS | [Live Demo](https://xascribe-mqr9ykb3xgrabj4msihmvx.streamlit.app/) (Made during [LLMs for Materials and Chemistry Hack](https://llmhackathon.github.io/))
 * [KnotGen](https://github.com/Oscuro-Phoenix/knotgen) - Job matching platform built with Next.js, TypeScript, and React (Made \w [sundai club](https://www.sundai.club/) at MIT)
-* [Shell AI Hack 2024](https://github.com/Oscuro-Phoenix/shellaihack2024) - Minimizing vehicle fleet carbon emissions (Hackathon submission, Public [Leaderboard](https://www.hackerearth.com/challenges/competitive/shellai-hackathon-2024/leaderboard/) #3)
+* [Shell AI Hack 2024](https://github.com/Oscuro-Phoenix/shellaihack2024) - Minimizing vehicle fleet carbon emissions (Hackathon submission by Team ASPAM, Public [Leaderboard](https://www.hackerearth.com/challenges/competitive/shellai-hackathon-2024/leaderboard/) #3)
 
 **Learn more** 
 * about: [Resume](https://drive.google.com/file/d/13bupMmTaDIvAPtdmPKgC9OjsrbttAIeI/view?usp=drive_link) 
