@@ -4,7 +4,7 @@
 * research: [Google Scholar](https://scholar.google.com/citations?hl=en&user=6gel9QYAAAAJ&view_op=list_works&sortby=pubdate)
 * in-the-media: [MIT Team Advances Lithium-Ion Battery Health Prediction with Elastoplasticity Model](https://quantumzeitgeist.com/mit-team-advances-lithium-ion-battery-health-prediction-with-elastoplasticity-model/)
 
-I build mathematical models for lithium batteries at **[Bazant Group, MIT](https://bazantgroup.mit.edu/shakul-pathak/)**. I'm experienced in computational research, developing physics models for battery performance estimation, design, and safety assessment and contributing to several [publications](https://scholar.google.com/citations?user=6gel9QYAAAAJ&hl=en) in battery technology. More broadly, I'm passionate about helping tough technologies scale faster using specialized models that minimize long, costly experiments.
+I build mathematical models for lithium batteries at **[Bazant Group, MIT](https://bazantgroup.mit.edu/)**. I'm experienced in computational research, developing physics models for battery performance estimation, design, and safety assessment and contributing to several [publications](https://scholar.google.com/citations?user=6gel9QYAAAAJ&hl=en) in battery technology. More broadly, I'm passionate about helping tough technologies scale faster using specialized models that minimize long, costly experiments.
 
 **I also enjoy doing hackathons**
 * [XAScribe](https://github.com/Oscuro-Phoenix/xascribe) - AI-powered XAS research assistant with Streamlit, Gemini 2.5 Flash, and FAISS | [Live Demo](https://xascribe-mqr9ykb3xgrabj4msihmvx.streamlit.app/) (Made during [LLMs for Materials and Chemistry Hack](https://llmhackathon.github.io/))
