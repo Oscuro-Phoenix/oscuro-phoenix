@@ -13,8 +13,8 @@
 * in-the-media: [MIT team advances lithium-ion battery health prediction with elastoplasticity model](https://quantumzeitgeist.com/mit-team-advances-lithium-ion-battery-health-prediction-with-elastoplasticity-model/), [kuo sharper (formerly legatum) fellowship](https://x.com/mitlegatum/status/1831786912035836171)
 
 I build mathematical models for lithium batteries at **[Bazant Group, MIT](https://bazantgroup.mit.edu/)**. I'm experienced in computational research, developing physics models for battery performance estimation, design, and safety assessment and contributing to several [publications](https://scholar.google.com/citations?user=6gel9QYAAAAJ&hl=en) in battery technology. More broadly, I'm passionate about helping tough technologies scale faster using specialized models that minimize long, costly experiments.
----
 
+---
 <details>
 <summary><b>🚀 I also enjoy hackathons</b></summary>
 
