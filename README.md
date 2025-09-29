@@ -21,13 +21,13 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 
 ---
 <details>
-<summary><b>📖 Bonus section: My bio</b></summary>
+<summary><b>📖 My journey:   </b></summary>
 
-*Shakul, born in Bhubaneswar, India, is an MIT researcher who develops mathematical models to help lithium batteries scale faster. A consistent top performer in school, he secured achievements like the Kishor Vaigyanik Protsahan Yojana (KVPY) fellowship, national standard examination in physics, and top ranks in the engineering entrance exams before joining IIT Kharagpur (IIT-KGP) in 2016.*
+*Shakul, born in Bhubaneswar, India, is an MIT researcher who develops mathematical models to help lithium batteries scale faster. A consistent top performer in school, he secured achievements like the Kishor Vaigyanik Protsahan Yojana (KVPY) fellowship, national standard examination in physics, and top rankings in the engineering entrance exams before joining IIT Kharagpur (IIT-KGP) in 2016.*
 
 *Shakul gained significant exposure to physical modeling and computational tools during his time at IIT-KGP. His stellar performance in core classes and desire for deep understanding was called out by his professors who are among some of India's top chemical engineers. They inspired him to pursue a career in applied research.*
 
-*This led Shakul on a diverse geographic path of winning coveted research fellowships to work with major research labs such as Simon Fraser University (SFU) in Canada and the Max Planck Institute for Dynamics and Self-Organization in Germany where he studied the physics of living cells to better engineer therapeutics and nanotechnology.*
+*This led Shakul on a diverse geographic path of winning coveted research fellowships to work with major research labs such as Simon Fraser University (SFU) in Canada and the Max Planck Institute for Dynamics and Self-Organization in Germany where he studied the physics of living cells to better engineer therapeutics and nanotechnology. For Shakul, these opportunities were golden. Interdisciplinary research presented itself as a gateway to pursue his interests in math, physics and CS from his schooldays, a time when, oddly enough, he could only make sense of pursuing a bachelor's in CS.*
 
 *Deep support from his mentors and experiences shaped his desire to continue applied research after receiving his chemical engineering bachelor's and master's in technology from IIT-KGP in 2021. Shakul now lives in Cambridge and works at the Massachusetts Institute of Technology (MIT) where he builds physics models for batteries that power homes, data centers and transportation.*
 
