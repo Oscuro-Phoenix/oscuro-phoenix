@@ -15,7 +15,7 @@
 I build mathematical models for lithium batteries at **[Bazant Group, MIT](https://bazantgroup.mit.edu/)**. I'm experienced in computational research, developing physics models for battery performance estimation, design, and safety assessment and contributing to several [publications](https://scholar.google.com/citations?user=6gel9QYAAAAJ&hl=en) in battery technology. More broadly, I'm passionate about helping tough technologies scale faster using specialized models that minimize long, costly experiments.
 
 <details>
-<summary><b>🚀 I also enjoy hackathons</b></summary>
+<summary><b>🛠️ projects from hackathons</b></summary>
 
 * [XAScribe](https://github.com/Oscuro-Phoenix/xascribe) - AI-powered XAS research assistant with Streamlit, Gemini 2.5 Flash, and FAISS | [Live Demo](https://xascribe-mqr9ykb3xgrabj4msihmvx.streamlit.app/) (Made during [LLMs for Materials and Chemistry Hack](https://llmhackathon.github.io/))
 * [knotgen](https://github.com/Oscuro-Phoenix/knotgen) - Job matching platform built with Next.js, TypeScript, and React (Made \w [sundai club](https://www.sundai.club/) at MIT; Kuo Sharper Fellowship supported further market research across SMEs)
@@ -24,7 +24,7 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 </details>
 
 <details>
-<summary><b>📖 My journey: {physics, chemical engineering, batteries} to impact </b></summary>
+<summary><b>📖 my journey: {physics, chemical engineering, batteries} to impact </b></summary>
 
 *Shakul, born in Bhubaneswar, India, is an MIT researcher who develops mathematical models to help lithium batteries scale faster. A consistent top performer in school, he secured achievements like the Kishor Vaigyanik Protsahan Yojana (KVPY) fellowship, national standard examination in physics, and top rankings in the engineering entrance exams before joining IIT Kharagpur (IIT-KGP) in 2016.*
 
