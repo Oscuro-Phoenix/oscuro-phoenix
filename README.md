@@ -4,6 +4,7 @@
 * research: [google scholar](https://scholar.google.com/citations?hl=en&user=6gel9QYAAAAJ&view_op=list_works&sortby=pubdate)
 * in-the-media: [MIT team advances lithium-ion battery health prediction with elastoplasticity model](https://quantumzeitgeist.com/mit-team-advances-lithium-ion-battery-health-prediction-with-elastoplasticity-model/), [kuo sharper (formerly legatum) fellowship](https://x.com/mitlegatum/status/1831786912035836171)
 
+** tl;dr
 I build mathematical models for lithium batteries at **[Bazant Group, MIT](https://bazantgroup.mit.edu/)**. I'm experienced in computational research, developing physics models for battery performance estimation, design, and safety assessment and contributing to several [publications](https://scholar.google.com/citations?user=6gel9QYAAAAJ&hl=en) in battery technology. More broadly, I'm passionate about helping tough technologies scale faster using specialized models that minimize long, costly experiments.
 
 <details>
@@ -16,7 +17,7 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 </details>
 
 <details>
-<summary><b>📖 my journey: {physics, chemical engineering, batteries} to impact </b></summary>
+<summary><b>📖 bio: {physics, chemical engineering, batteries} </b></summary>
 
 *Shakul, born in Bhubaneswar, India, is an MIT researcher who develops mathematical models to help lithium batteries scale faster. A consistent top performer in school, he secured achievements like the Kishor Vaigyanik Protsahan Yojana (KVPY) fellowship, national standard examination in physics, and top rankings in the engineering entrance exams before joining IIT Kharagpur (IIT-KGP) in 2016.*
 
