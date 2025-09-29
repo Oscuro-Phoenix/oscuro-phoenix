@@ -11,9 +11,16 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 * [knotgen](https://github.com/Oscuro-Phoenix/knotgen) - Job matching platform built with Next.js, TypeScript, and React (Made \w [sundai club](https://www.sundai.club/) at MIT; Kuo Sharper Fellowship supported further market research across SMEs)
 * [Shell AI Hack 2024](https://github.com/Oscuro-Phoenix/shellaihack2024) - Minimizing vehicle fleet carbon emissions (Hackathon submission by Team ASPAM, Public [Leaderboard](https://www.hackerearth.com/challenges/competitive/shellai-hackathon-2024/leaderboard/) #3)
 
----
+<div align="center">
+  
+*"Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious."*
 
-**Comprehensive bio** 
+**— Stephen Hawking**
+
+</div>
+
+---
+**Bonus section: My bio**
 
 *Shakul, born in Bhubaneswar, India, is an MIT researcher who develops mathematical models to help lithium batteries scale faster. A consistent top performer in school, he secured achievements like the Kishor Vaigyanik Protsahan Yojana (KVPY) fellowship, national standard examination in physics, and top ranks in the engineering entrance exams before joining IIT Kharagpur (IIT-KGP) in 2016.*
 
@@ -26,11 +33,3 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 *As of 2025, Shakul has contributed to several publications, written battery simulators, consulted on four industrial projects, mentored two master's theses students, won two fellowships, and has taught several students in the graduate-level Transport Phenomena course at MIT. Shakul is passionate about applying AI and physics to accelerate the growth of tough tech (such as batteries) and continues pursuing this in the energy and tech industry. Outside of research, he enjoys going on long walks, exploring math, following business trends, and discovering new food.*
 
 ---
-
-<div align="center">
-  
-*"Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious."*
-
-**— Stephen Hawking**
-
-</div>
