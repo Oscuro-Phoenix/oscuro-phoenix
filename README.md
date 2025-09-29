@@ -1,11 +1,3 @@
-<div align="center">
-  
-*"Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious."*
-
-**— Stephen Hawking**
-
-</div>
-
 * about: [resume](https://drive.google.com/file/d/13bupMmTaDIvAPtdmPKgC9OjsrbttAIeI/view?usp=drive_link) 
 * blog: [math-for-fun](https://oscuro-phoenix.github.io/math-for-fun/) 
 * professional: [linkedIn](https://linkedin.com/in/shakul-pathak) 
