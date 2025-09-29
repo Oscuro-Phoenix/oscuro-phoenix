@@ -13,17 +13,17 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 
 ---
 
-**Here's my comprehensive bio** 
+**Comprehensive bio** 
 
-*"Shakul, born in Bhubaneswar, India, is an MIT researcher who develops mathematical models to help lithium batteries scale faster. A consistent top performer in school, he secured achievements like the Kishor Vaigyanik Protsahan Yojana (KVPY) fellowship, national standard examination in physics, and top ranks in the engineering entrance exams before joining IIT Kharagpur (IIT-KGP) in 2016.
+*Shakul, born in Bhubaneswar, India, is an MIT researcher who develops mathematical models to help lithium batteries scale faster. A consistent top performer in school, he secured achievements like the Kishor Vaigyanik Protsahan Yojana (KVPY) fellowship, national standard examination in physics, and top ranks in the engineering entrance exams before joining IIT Kharagpur (IIT-KGP) in 2016.*
 
-Shakul gained significant exposure to physical modeling and computational tools during his time at IIT-KGP. His stellar performance in core classes and desire for deep understanding was called out by his professors who are among some of India's top chemical engineers. They inspired him to pursue a career in applied research.
+*Shakul gained significant exposure to physical modeling and computational tools during his time at IIT-KGP. His stellar performance in core classes and desire for deep understanding was called out by his professors who are among some of India's top chemical engineers. They inspired him to pursue a career in applied research.*
 
-This led Shakul on a diverse geographic path of winning coveted research fellowships to work with major research labs such as Simon Fraser University (SFU) in Canada and the Max Planck Institute for Dynamics and Self-Organization in Germany where he studied the physics of living cells to better engineer therapeutics and nanotechnology.
+*This led Shakul on a diverse geographic path of winning coveted research fellowships to work with major research labs such as Simon Fraser University (SFU) in Canada and the Max Planck Institute for Dynamics and Self-Organization in Germany where he studied the physics of living cells to better engineer therapeutics and nanotechnology.*
 
-Deep support from his mentors and experiences shaped his desire to continue applied research after receiving his chemical engineering bachelor's and master's in technology from IIT-KGP in 2021. Shakul now lives in Cambridge and works at the Massachusetts Institute of Technology (MIT) where he builds physics models for batteries that power homes, data centers and transportation.
+*Deep support from his mentors and experiences shaped his desire to continue applied research after receiving his chemical engineering bachelor's and master's in technology from IIT-KGP in 2021. Shakul now lives in Cambridge and works at the Massachusetts Institute of Technology (MIT) where he builds physics models for batteries that power homes, data centers and transportation.*
 
-As of 2025, Shakul has contributed to several publications, written battery simulators, consulted on four industrial projects, mentored two master's theses students, won two fellowships, and has taught several students in the graduate-level Transport Phenomena course at MIT. Shakul is passionate about applying AI and physics to accelerate the growth of tough tech (such as batteries) and continues pursuing this in the energy and tech industry. Outside of research, he enjoys going on long walks, exploring math, following business trends, and discovering new food."*
+*As of 2025, Shakul has contributed to several publications, written battery simulators, consulted on four industrial projects, mentored two master's theses students, won two fellowships, and has taught several students in the graduate-level Transport Phenomena course at MIT. Shakul is passionate about applying AI and physics to accelerate the growth of tough tech (such as batteries) and continues pursuing this in the energy and tech industry. Outside of research, he enjoys going on long walks, exploring math, following business trends, and discovering new food.*
 
 ---
 
