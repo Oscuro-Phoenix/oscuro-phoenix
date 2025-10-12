@@ -10,16 +10,14 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 <details>
 <summary><b>🔋 projects </b></summary>
 
-<div style="border-left: 4px solid #0969da; padding-left: 200px; margin-left: 200px;">
-
-<details>
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
 <summary><b>Digital Twins</b></summary>
 
 * Developed lean (5x parameter reduction) SPM and P2D battery models for rapid State of Health (SOH) tracking.
 * Framework to support Battery Management Systems (BMS) development and predictive maintenance.
 
 </details>
-<details>
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
 <summary><b>Model-guided Discovery of Charge-Transfer Kinetics</b></summary>
 
 * Led model-guided design of experiments (DOE) across 4 experimental teams for model parameterization of LCO, NMC, and LFP cathodes.
@@ -27,14 +25,14 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 * Work sponsored by Shell USA & Toyota Research Institute (TRI).
 
 </details>
-<details>
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
 <summary><b>Rapid Estimation of Battery Deformation</b></summary>
 
 * Co-developed Julia Finite Volume Method (FVM) software for millisecond-scale (100x speedup compared to vanilla simulators) battery swelling simulation.
 * Validated against 20Ah NCM-Graphite pouch cell data for battery pack design optimization.
 
 </details>
-<details>
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
 <summary><b>Quantifying Microstructure-Performance Relationships</b></summary>
 
 * Built multiscale FVM models for phase-change LFP materials.
@@ -43,22 +41,20 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 * Work sponsored by MathWorks Fellowship.
 
 </details>
-<details>
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
 <summary><b>Degradation and Diagnostics</b></summary>
 
 * Developed interpretable model for dead lithium dynamics limiting Li-metal battery cycle life.
 * Co-developed method combining model features into degradation metrics for SOH estimation (provisional patent filed).
 
 </details>
-<details>
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
 <summary><b>Consulting</b></summary>
 
 * **SLB**: Quantified bottlenecks in Direct Lithium Extraction (DLE) systems for unlocking 70% recovery. Ran a physics-guided feasibility assessment of integrating electrolyzer in traditional industries, spotted promising entry points and quantified lifetime energy and $ savings per installation.
 * **AstraZeneca**: Built ML models for bioreactor quality control in monoclonal antibody production, delivering hybrid algorithms to reduce waste while maintaining yield. Built an automated (arduino) injector assessment platform to automate standardized testing, this is being built toward animal cruelty-free, low cost and easy compliance testing systems.
 
 </details>
-
-</div>
 
 </details>
 
