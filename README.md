@@ -10,10 +10,10 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 <details>
 <summary><b>🔋 models </b></summary>
 
-* [charge-transfer kinetics discovery](https://www.science.org/doi/10.1126/science.adq2541) - Theory-guided discovery from experiments
-* [microstructure-performance relationships](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d5ee04131g) - Multiscale FVM reducing sim time weeks→hours
-* [battery deformation estimation](https://iopscience.iop.org/article/10.1149/1945-7111/ad4f1e/meta) - Julia FVM for predicting battery swelling in O(10) ms
-* <details><summary>more</summary><ul><li><b>digital twins for batteries <b> - Lean models for rapid SOH tracking </li><li><b>degradation diagnostics</b> - Methods for multidimensional degradation metrics (provisional patent granted)</li><li><b>consulting at SLB</b>- Direct Lithium Extraction optimization & electrolyzer feasibility</li><li><b>consulting at AstraZeneca</b> - ML bioreactor quality control & automated injector testing</li></ul></details>
+* [charge-transfer kinetics discovery](https://www.science.org/doi/10.1126/science.adq2541) - theory-guided discovery from experiments
+* [microstructure-performance relationships](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d5ee04131g) - multiscale FVM reducing sim time weeks→hours
+* [battery deformation estimation](https://iopscience.iop.org/article/10.1149/1945-7111/ad4f1e/meta) - julia FVM for predicting battery swelling in O(10) ms
+* <details><summary>more</summary><ul><li><b>digital twins for batteries </b> - Lean models for rapid SOH tracking </li><li><b>degradation diagnostics</b> - methods for multidimensional degradation metrics (provisional patent granted)</li><li><b>consulting at SLB</b>- Direct Lithium Extraction optimization & electrolyzer feasibility</li><li><b>consulting at AstraZeneca</b> - ML bioreactor quality control & automated injector testing</li></ul></details>
 
 </details>
 
