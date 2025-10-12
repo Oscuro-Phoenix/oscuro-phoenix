@@ -10,13 +10,20 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 <details>
 <summary><b>🔋 projects </b></summary>
 
-* **digital twins for batteries** - Developed lean SPM and P2D battery models for rapid State of Health (SOH) tracking and BMS development.
-* **model-guided discovery of charge-transfer kinetics** - Led model-guided DOE across 4 experimental teams and developed EIS software for learning kinetic models. (Shell USA & Toyota Research Institute)
-* **rapid estimation of battery deformation** - Co-developed Julia FVM software for millisecond-scale battery swelling simulation (100x speedup).
-* **quantifying microstructure-performance relationships** - Built multiscale FVM models for phase-change LFP materials, reducing simulation time from weeks to hours. (MathWorks Fellowship)
-* **degradation and diagnostics** - Developed interpretable model for dead lithium dynamics and degradation metrics for SOH estimation (provisional patent filed).
-* **industry consulting, SLB** - Quantified bottlenecks in Direct Lithium Extraction systems and assessed electrolyzer integration for traditional industries.
-* **industry consulting, AstraZeneca** - Built ML models for bioreactor quality control and developed automated injector assessment platform for compliance testing.
+* **digital twins for batteries** • Lean models for rapid SOH tracking
+* **charge-transfer kinetics discovery** • Model-guided experiments & EIS software (Shell USA, TRI)
+* **microstructure-performance modeling** • Multiscale FVM reducing sim time weeks→hours (MathWorks Fellowship)
+* **degradation diagnostics** • Dead lithium dynamics model (provisional patent)
+
+<details>
+<summary>view more projects</summary>
+
+* **battery deformation estimation** • Julia FVM software with 100x speedup
+* **consulting, SLB** • Direct Lithium Extraction optimization & electrolyzer feasibility
+* **consulting, AstraZeneca** • ML bioreactor quality control & automated injector testing
+
+</details>
+
 </details>
 
 <details>
