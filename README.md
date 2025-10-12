@@ -13,7 +13,7 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 * **digital twins for batteries** • Lean models for rapid SOH tracking
 * **charge-transfer kinetics discovery** • Model-guided experiments & EIS software (Shell USA, TRI)
 * **microstructure-performance modeling** • Multiscale FVM reducing sim time weeks→hours (MathWorks Fellowship)
-* **degradation diagnostics** • Dead lithium dynamics model (provisional patent)
+* **degradation diagnostics** • Dead lithium and degradation metrics (provisional patent granted) 
 
 <details>
 <summary>view more projects</summary>
