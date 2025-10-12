@@ -10,14 +10,13 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 <details>
 <summary><b>🔋 projects </b></summary>
 
-* **digital twins for batteries** - Developed lean (5x parameter reduction) SPM and P2D battery models for rapid State of Health (SOH) tracking. Framework to support Battery Management Systems (BMS) development and predictive maintenance.
-* **model-guided discovery of charge-transfer kinetics** - Led model-guided design of experiments (DOE) across 4 experimental teams for model parameterization of LCO, NMC, and LFP cathodes. Developed Electrochemical Impedance Spectroscopy (EIS) software for learning kinetic models from frequency-domain data. (Work sponsored by Shell USA & Toyota Research Institute)
-* **rapid estimation of battery deformation** - Co-developed Julia Finite Volume Method (FVM) software for millisecond-scale (100x speedup compared to vanilla simulators) battery swelling simulation. Validated against 20Ah NCM-Graphite pouch cell data for battery pack design optimization.
-* **quantifying microstructure-performance relationships** - Built multiscale FVM models for phase-change LFP materials. Developed graph framework reducing simulation time from weeks to hours. Created impedance models for polycrystalline NCM cathodes for deconvoluting processes that contribute to low to moderate (< 2C) rate response. (Work sponsored by MathWorks Fellowship)
-* **degradation and diagnostics** - Developed interpretable model for dead lithium dynamics limiting Li-metal battery cycle life. Co-developed method combining model features into degradation metrics for SOH estimation (provisional patent filed).
-* **industry consulting, SLB**: Quantified bottlenecks in Direct Lithium Extraction (DLE) systems for unlocking 70% recovery. Ran a physics-guided feasibility assessment of integrating electrolyzer in traditional industries, spotted promising entry points and quantified lifetime energy and $ savings per installation. 
-* **industry consulting, AstraZeneca**: Built ML models for bioreactor quality control in monoclonal antibody production, delivering hybrid algorithms to reduce waste while maintaining yield. Built an automated (arduino) injector assessment platform to automate standardized testing, this is being built toward animal cruelty-free, low cost and easy compliance testing systems.
-
+* **digital twins for batteries** - Developed lean SPM and P2D battery models for rapid State of Health (SOH) tracking and BMS development.
+* **model-guided discovery of charge-transfer kinetics** - Led model-guided DOE across 4 experimental teams and developed EIS software for learning kinetic models. (Shell USA & Toyota Research Institute)
+* **rapid estimation of battery deformation** - Co-developed Julia FVM software for millisecond-scale battery swelling simulation (100x speedup).
+* **quantifying microstructure-performance relationships** - Built multiscale FVM models for phase-change LFP materials, reducing simulation time from weeks to hours. (MathWorks Fellowship)
+* **degradation and diagnostics** - Developed interpretable model for dead lithium dynamics and degradation metrics for SOH estimation (provisional patent filed).
+* **industry consulting, SLB** - Quantified bottlenecks in Direct Lithium Extraction systems and assessed electrolyzer integration for traditional industries.
+* **industry consulting, AstraZeneca** - Built ML models for bioreactor quality control and developed automated injector assessment platform for compliance testing.
 </details>
 
 <details>
