@@ -14,23 +14,41 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 
 <details>
 <summary><b>Digital Twins</b></summary>
-Developed lean (5x parameter reduction) SPM and P2D battery models for rapid State of Health (SOH) tracking. Framework to support Battery Management Systems (BMS) development and predictive maintenance.
+
+* Developed lean (5x parameter reduction) SPM and P2D battery models for rapid State of Health (SOH) tracking.
+* Framework to support Battery Management Systems (BMS) development and predictive maintenance.
+
 </details>
 <details>
 <summary><b>Model-guided Discovery of Charge-Transfer Kinetics</b></summary>
-Led model-guided design of experiments (DOE) across 4 experimental teams for model parameterization of LCO, NMC, and LFP cathodes. Developed Electrochemical Impedance Spectroscopy (EIS) software for learning kinetic models from frequency-domain data. Worked sponsored by Shell USA & Toyota Research Institute (TRI).
+
+* Led model-guided design of experiments (DOE) across 4 experimental teams for model parameterization of LCO, NMC, and LFP cathodes.
+* Developed Electrochemical Impedance Spectroscopy (EIS) software for learning kinetic models from frequency-domain data.
+* Work sponsored by Shell USA & Toyota Research Institute (TRI).
+
 </details>
 <details>
 <summary><b>Rapid Estimation of Battery Deformation</b></summary>
-Co-developed Julia Finite Volume Method (FVM) software for millisecond-scale (100x speedup compared to vanilla simulators) battery swelling simulation. Validated against 20Ah NCM-Graphite pouch cell data for battery pack design optimization.
+
+* Co-developed Julia Finite Volume Method (FVM) software for millisecond-scale (100x speedup compared to vanilla simulators) battery swelling simulation.
+* Validated against 20Ah NCM-Graphite pouch cell data for battery pack design optimization.
+
 </details>
 <details>
 <summary><b>Quantifying Microstructure-Performance Relationships</b></summary>
-Built multiscale FVM models for phase-change LFP materials. Developed graph framework reducing simulation time from weeks to hours. Created impedance models for polycrystalline NCM cathodes for deconvoluting processes that contribute to low to moderate (< 2C) rate response. Work sponsored by MathWorks Fellowship.
+
+* Built multiscale FVM models for phase-change LFP materials.
+* Developed graph framework reducing simulation time from weeks to hours.
+* Created impedance models for polycrystalline NCM cathodes for deconvoluting processes that contribute to low to moderate (< 2C) rate response.
+* Work sponsored by MathWorks Fellowship.
+
 </details>
 <details>
 <summary><b>Degradation and Diagnostics</b></summary>
-Developed interpretable model for dead lithium dynamics limiting Li-metal battery cycle life. Co-developed method combining model features into degradation metrics for SOH estimation (provisional patent filed).
+
+* Developed interpretable model for dead lithium dynamics limiting Li-metal battery cycle life.
+* Co-developed method combining model features into degradation metrics for SOH estimation (provisional patent filed).
+
 </details>
 <details>
 <summary><b>Consulting</b></summary>
