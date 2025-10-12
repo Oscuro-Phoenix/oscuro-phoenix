@@ -10,22 +10,40 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 <details>
 <summary><b>🔋 projects </b></summary>
 
-* **Digital Twins** - Developed lean (5x parameter reduction) SPM and P2D battery models for rapid State of Health (SOH) tracking. Framework to support Battery Management Systems (BMS) development and predictive maintenance.
+<details>
+<summary><b>Digital Twins</b></summary>
+Developed lean (5x parameter reduction) SPM and P2D battery models for rapid State of Health (SOH) tracking. Framework to support Battery Management Systems (BMS) development and predictive maintenance.
+</details>
 
-* **Model-guided Discovery of Charge-Transfer Kinetics** - Led model-guided design of experiments (DOE) across 4 experimental teams for model parameterization of LCO, NMC, and LFP cathodes. Developed Electrochemical Impedance Spectroscopy (EIS) software for learning kinetic models from frequency-domain data. Worked sponsored by Shell USA & Toyota Research Institute (TRI).
+<details>
+<summary><b>Model-guided Discovery of Charge-Transfer Kinetics</b></summary>
+Led model-guided design of experiments (DOE) across 4 experimental teams for model parameterization of LCO, NMC, and LFP cathodes. Developed Electrochemical Impedance Spectroscopy (EIS) software for learning kinetic models from frequency-domain data. Worked sponsored by Shell USA & Toyota Research Institute (TRI).
+</details>
 
-* **Rapid Estimation of Battery Deformation** - Co-developed Julia Finite Volume Method (FVM) software for millisecond-scale (100x speedup compared to vanilla simulators) battery swelling simulation. Validated against 20Ah NCM-Graphite pouch cell data for battery pack design optimization.
+<details>
+<summary><b>Rapid Estimation of Battery Deformation</b></summary>
+Co-developed Julia Finite Volume Method (FVM) software for millisecond-scale (100x speedup compared to vanilla simulators) battery swelling simulation. Validated against 20Ah NCM-Graphite pouch cell data for battery pack design optimization.
+</details>
 
-* **Quantifying Microtructure-Performance Relationships** - Built multiscale FVM models for phase-change LFP materials. Developed graph framework reducing simulation time from weeks to hours. Created impedance models for polycrystalline NCM cathodes for deconvoluting processes that contribute to low to moderate (< 2C) rate response. Work sponsored by MathWorks Fellowship.
+<details>
+<summary><b>Quantifying Microstructure-Performance Relationships</b></summary>
+Built multiscale FVM models for phase-change LFP materials. Developed graph framework reducing simulation time from weeks to hours. Created impedance models for polycrystalline NCM cathodes for deconvoluting processes that contribute to low to moderate (< 2C) rate response. Work sponsored by MathWorks Fellowship.
+</details>
 
-* **Degradation and Diagnostics** - Developed interpretable model for dead lithium dynamics limiting Li-metal battery cycle life. Co-developed method combining model features into degradation metrics for SOH estimation (provisional patent filed). 
+<details>
+<summary><b>Degradation and Diagnostics</b></summary>
+Developed interpretable model for dead lithium dynamics limiting Li-metal battery cycle life. Co-developed method combining model features into degradation metrics for SOH estimation (provisional patent filed).
+</details>
 
-* **Industry Consulting** - **SLB**: Quantified bottlenecks in Direct Lithium Extraction (DLE) systems for unlocking 70% recovery. Ran a physics-guided feasibility assessment of integrating electrolyzer in traditional industries, spotted promising entry points and quantified lifetime energy and $ savings per installation.  **AstraZeneca**: Built ML models for bioreactor quality control in monoclonal antibody production, delivering hybrid algorithms to reduce waste while maintaining yield. Built an automated (arduino) injector assessment platform to automate standardized testing, this is being built toward animal cruelty-free, low cost and easy compliance testing systems.
+<details>
+<summary><b>Consulting</b></summary>
+**SLB**: Quantified bottlenecks in Direct Lithium Extraction (DLE) systems for unlocking 70% recovery. Ran a physics-guided feasibility assessment of integrating electrolyzer in traditional industries, spotted promising entry points and quantified lifetime energy and $ savings per installation. **AstraZeneca**: Built ML models for bioreactor quality control in monoclonal antibody production, delivering hybrid algorithms to reduce waste while maintaining yield. Built an automated (arduino) injector assessment platform to automate standardized testing, this is being built toward animal cruelty-free, low cost and easy compliance testing systems.
+</details>
 
 </details>
 
 <details>
-<summary><b>🛠️ projects - hackathons</b></summary>
+<summary><b>🛠️ projects </b></summary>
 
 * [XAScribe](https://github.com/Oscuro-Phoenix/xascribe) - AI-powered XAS research assistant with Streamlit, Gemini 2.5 Flash, and FAISS | [Live Demo](https://xascribe-mqr9ykb3xgrabj4msihmvx.streamlit.app/) (Made during [LLMs for Materials and Chemistry Hack](https://llmhackathon.github.io/))
 * [knotgen](https://github.com/Oscuro-Phoenix/knotgen) - Job matching platform built with Next.js, TypeScript, and React (Made \w [sundai club](https://www.sundai.club/) at MIT; Kuo Sharper Fellowship supported further market research across SMEs)
