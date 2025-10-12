@@ -8,7 +8,7 @@
 I build mathematical models for lithium batteries at **[Bazant Group, MIT](https://bazantgroup.mit.edu/)**. I'm experienced in computational research, developing physics models for battery performance estimation, design, and safety assessment and, in the process, contributing to several [publications](https://scholar.google.com/citations?user=6gel9QYAAAAJ&hl=en) in battery tech. More broadly, I'm passionate about helping tough technologies scale faster using specialized models that minimize long, costly experiments.
 
 <details>
-<summary><b> 🔋 projects </b></summary>
+<summary><b>🔋 projects </b></summary>
 
 * **Digital Twins** - Developed lean (5x parameter reduction) SPM and P2D battery models for rapid State of Health (SOH) tracking. Framework to support Battery Management Systems (BMS) development and predictive maintenance.
 
