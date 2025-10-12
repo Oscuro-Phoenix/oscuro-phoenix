@@ -10,7 +10,7 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 <details>
 <summary><b>🔋 projects </b></summary>
 
-| Project |
+| |
 |---------|
 | <details><summary><b>digital twins for batteries</b></summary><br><br>• Developed lean (5x parameter reduction) SPM and P2D battery models for rapid State of Health (SOH) tracking.<br>• Framework to support Battery Management Systems (BMS) development and predictive maintenance.</details> |
 | <details><summary><b>model-guided discovery of charge-transfer kinetics</b></summary><br><br>• Led model-guided design of experiments (DOE) across 4 experimental teams for model parameterization of LCO, NMC, and LFP cathodes.<br>• Developed Electrochemical Impedance Spectroscopy (EIS) software for learning kinetic models from frequency-domain data.<br>• Work sponsored by Shell USA & Toyota Research Institute (TRI).</details> |
