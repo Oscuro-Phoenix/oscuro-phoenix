@@ -8,7 +8,7 @@
 I build mathematical models for lithium batteries at **[Bazant Group, MIT](https://bazantgroup.mit.edu/)**. I'm experienced in computational research, developing physics models for battery performance estimation, design, and safety assessment and, in the process, contributing to several [publications](https://scholar.google.com/citations?user=6gel9QYAAAAJ&hl=en) in battery tech. More broadly, I'm passionate about helping tough technologies scale faster using specialized models that minimize long, costly experiments.
 
 <details>
-<summary><b>🔋 projects </b></summary>
+<summary><b>🔋 batteries </b></summary>
 
 * **digital twins for batteries** • Lean models for rapid SOH tracking
 * **charge-transfer kinetics discovery** • Model-guided experiments & EIS software (Shell USA, TRI)
@@ -16,7 +16,7 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 * **degradation diagnostics** • Dead lithium and degradation metrics (provisional patent granted) 
 
 <details>
-<summary>view more projects</summary>
+<summary>view more</summary>
 
 * **battery deformation estimation** • Julia FVM software with 100x speedup
 * **consulting, SLB** • Direct Lithium Extraction optimization & electrolyzer feasibility
@@ -27,7 +27,7 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 </details>
 
 <details>
-<summary><b>🛠️ projects </b></summary>
+<summary><b>🛠️ hacks </b></summary>
 
 * [XAScribe](https://github.com/Oscuro-Phoenix/xascribe) - AI-powered XAS research assistant with Streamlit, Gemini 2.5 Flash, and FAISS | [Live Demo](https://xascribe-mqr9ykb3xgrabj4msihmvx.streamlit.app/) (Made during [LLMs for Materials and Chemistry Hack](https://llmhackathon.github.io/))
 * [knotgen](https://github.com/Oscuro-Phoenix/knotgen) - Job matching platform built with Next.js, TypeScript, and React (Made \w [sundai club](https://www.sundai.club/) at MIT; Kuo Sharper Fellowship supported further market research across SMEs)
