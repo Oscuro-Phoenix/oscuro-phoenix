@@ -34,7 +34,10 @@ Developed interpretable model for dead lithium dynamics limiting Li-metal batter
 </details>
 <details>
 <summary><b>Consulting</b></summary>
-**SLB**: Quantified bottlenecks in Direct Lithium Extraction (DLE) systems for unlocking 70% recovery. Ran a physics-guided feasibility assessment of integrating electrolyzer in traditional industries, spotted promising entry points and quantified lifetime energy and $ savings per installation. **AstraZeneca**: Built ML models for bioreactor quality control in monoclonal antibody production, delivering hybrid algorithms to reduce waste while maintaining yield. Built an automated (arduino) injector assessment platform to automate standardized testing, this is being built toward animal cruelty-free, low cost and easy compliance testing systems.
+
+* **SLB**: Quantified bottlenecks in Direct Lithium Extraction (DLE) systems for unlocking 70% recovery. Ran a physics-guided feasibility assessment of integrating electrolyzer in traditional industries, spotted promising entry points and quantified lifetime energy and $ savings per installation.
+* **AstraZeneca**: Built ML models for bioreactor quality control in monoclonal antibody production, delivering hybrid algorithms to reduce waste while maintaining yield. Built an automated (arduino) injector assessment platform to automate standardized testing, this is being built toward animal cruelty-free, low cost and easy compliance testing systems.
+
 </details>
 
 </blockquote>
