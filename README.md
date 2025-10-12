@@ -8,7 +8,7 @@
 I build mathematical models for lithium batteries at **[Bazant Group, MIT](https://bazantgroup.mit.edu/)**. I'm experienced in computational research, developing physics models for battery performance estimation, design, and safety assessment and, in the process, contributing to several [publications](https://scholar.google.com/citations?user=6gel9QYAAAAJ&hl=en) in battery tech. More broadly, I'm passionate about helping tough technologies scale faster using specialized models that minimize long, costly experiments.
 
 <details>
-<summary><b>🔋 batteries </b></summary>
+<summary><b>🔋 simulation/modeling </b></summary>
 
 * **digital twins for batteries** • Lean models for rapid SOH tracking
 * **charge-transfer kinetics discovery** • Model-guided experiments & EIS software (Shell USA, TRI)
