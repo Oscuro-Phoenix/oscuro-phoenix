@@ -1,7 +1,7 @@
 * about: [resume](https://drive.google.com/file/d/13bupMmTaDIvAPtdmPKgC9OjsrbttAIeI/view?usp=drive_link) 
-* blog: [math-for-fun](https://oscuro-phoenix.github.io/math-for-fun/) 
 * professional: [linkedIn](https://linkedin.com/in/shakul-pathak) 
 * research: [google scholar](https://scholar.google.com/citations?hl=en&user=6gel9QYAAAAJ&view_op=list_works&sortby=pubdate)
+* blog: [math-for-fun](https://oscuro-phoenix.github.io/math-for-fun/) 
 * in-the-media: [MIT researchers developed a model that explains lithium intercalation rates in lithium-ion batteries.](https://news.mit.edu/2025/simple-formula-could-guide-design-faster-charging-longer-lasting-batteries-1002), [MIT team advances lithium-ion battery health prediction with elastoplasticity model](https://quantumzeitgeist.com/mit-team-advances-lithium-ion-battery-health-prediction-with-elastoplasticity-model/), [kuo sharper (formerly legatum) fellowship](https://x.com/mitlegatum/status/1831786912035836171)
 
 **tl;dr:**
