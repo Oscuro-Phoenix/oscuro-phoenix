@@ -10,7 +10,7 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 <details>
 <summary><b>🔋 projects </b></summary>
 
-<div style="border-left: 4px solid #0969da; padding-left: 20px; margin-left: 200px;">
+<div style="border-left: 4px solid #0969da; padding-left: 200px; margin-left: 200px;">
 
 <details>
 <summary><b>Digital Twins</b></summary>
