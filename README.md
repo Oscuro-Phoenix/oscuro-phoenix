@@ -13,7 +13,7 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 * [charge-transfer kinetics discovery](https://www.science.org/doi/10.1126/science.adq2541) - theory-guided discovery from experiments
 * [battery deformation estimation](https://iopscience.iop.org/article/10.1149/1945-7111/ad4f1e/meta) - julia FVM for predicting battery swelling in O(10) ms
 * [microstructure-performance relationships](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d5ee04131g) - multiphase simulations on conductive networks for LFP electrodes
-* <details><summary>[+5 more]</summary><ul><li><b>[digital twins for batteries]</b> - Lean models for rapid SOH tracking</li><li><b>[degradation diagnostic]</b> - methods for multidimensional degradation metrics (provisional patent granted)</li><li><b>[consulting at SLB]</b> - Direct Lithium Extraction optimization & electrolyzer feasibility</li><li><b>[consulting at AstraZeneca]</b> - ML bioreactor quality control & automated injector testing</li></ul></details>
+* [more](https://drive.google.com/file/d/13bupMmTaDIvAPtdmPKgC9OjsrbttAIeI/view?usp=drive_link)
 
 </details>
 
