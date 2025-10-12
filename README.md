@@ -72,7 +72,7 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 </details>
 
 <details>
-<summary><b>📖 bio: {physics, chemical engineering, batteries} </b></summary> <br>
+<summary><b>📖 bio </b></summary> <br>
   
 *Shakul, born in Bhubaneswar, India, is an MIT researcher who develops mathematical models to help lithium batteries scale faster. A consistent top performer in school, he secured awards such as the Kishor Vaigyanik Protsahan Yojana (KVPY) fellowship, top rankings in national examinations in physics, and engineering before joining IIT Kharagpur (IIT-KGP) in 2016.*
 
