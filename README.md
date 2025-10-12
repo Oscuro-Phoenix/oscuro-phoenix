@@ -14,13 +14,7 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 * **charge-transfer kinetics discovery** • Model-guided experiments & EIS software (Shell USA, TRI)
 * **microstructure-performance modeling** • Multiscale FVM reducing sim time weeks→hours (MathWorks Fellowship)
 * **degradation diagnostics** • Methods for multidimensional degradation metrics (provisional patent granted)
-* <details><summary>more</summary>
-
-  * **battery deformation estimation** • Julia FVM software with 100x speedup
-  * **consulting, SLB** • Direct Lithium Extraction optimization & electrolyzer feasibility
-  * **consulting, AstraZeneca** • ML bioreactor quality control & automated injector testing
-  
-  </details>
+* <details><summary>more</summary><ul><li><b>battery deformation estimation</b> • Julia FVM software with 100x speedup</li><li><b>consulting, SLB</b> • Direct Lithium Extraction optimization & electrolyzer feasibility</li><li><b>consulting, AstraZeneca</b> • ML bioreactor quality control & automated injector testing</li></ul></details>
 
 </details>
 
