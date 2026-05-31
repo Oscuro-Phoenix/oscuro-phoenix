@@ -10,6 +10,7 @@ I build mathematical models for lithium batteries at **[Bazant Group, MIT](https
 <details>
 <summary><b>🔋 models </b></summary>
 
+* [lean porous electrode theory](https://arxiv.org/abs/2604.16627) - powerful reduced yet powerful or equivalently lean model for porous electrode systems
 * [charge-transfer kinetics discovery](https://www.science.org/doi/10.1126/science.adq2541) - theory-guided discovery from experiments
 * [battery deformation estimation](https://iopscience.iop.org/article/10.1149/1945-7111/ad4f1e/meta) - julia FVM for predicting battery swelling in O(10) ms
 * [microstructure-performance relationships](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d5ee04131g) - multiphase simulations on conductive networks for LFP electrodes
